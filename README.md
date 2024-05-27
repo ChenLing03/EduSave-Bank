@@ -1,6 +1,5 @@
 # EduSave-Bank
 EBU6304 - Software Engineering - 2023/24 Group Project
-# EduSave Bank
 
 Welcome to the EduSave Bank software documentation. This platform is designed to facilitate interactive financial education for children, parents, and educators through engaging interfaces and real-time functionalities.
 
