@@ -1,0 +1,3 @@
+123 As12345 current 13245.0
+yuchen 123 current 999.0 Deposited: 200.0 at Sun May 26 22:01:18 CST 2024, Reward for completing task: saodi - 200.0, Deposited: 100.0 at Sun May 26 22:01:33 CST 2024, Reward for completing task: xiyifu - 100.0, Withdrawn: 100.0 at Sun May 26 22:01:41 CST 2024 Tasks:cook;200.0;true,wash;100.0;true
+chenhe 123 current 123.0 Deposited: 123.0 at Sun May 26 15:33:17 CST 2024, Reward for completing task: 123 - 123.0 Tasks:study;123.0;true,clean the floor;789.0;false
